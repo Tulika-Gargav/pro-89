@@ -1,0 +1,10 @@
+body
+{
+background-color: #ce4a4a;
+}
+
+#player1_name, #player2_name
+{
+display: inline-block;
+margin-left: 20px;
+}
